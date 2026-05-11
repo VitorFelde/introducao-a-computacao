@@ -1,2 +1,2 @@
-# introducao-a-computacao
-slides e aulas de introducao a computacao
+# Introducao à computação
+Slides e aulas de introducao a computacao
