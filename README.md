@@ -1,2 +1,2 @@
 # Introducao à computação
-Slides e aulas de introducao a computacao
+Repositório de introdução de computação - Slides e aulas de introducao a computacao
